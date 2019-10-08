@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://geevagaez.hakol-politi.com/sitemap.xml
